@@ -1,4 +1,4 @@
-#Codigo de Telefono
+# Codigo de telefono
 
 Representa las teclas de los antiguos telefonos para poder enviar mensajes
 de texto.
